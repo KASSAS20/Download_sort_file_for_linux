@@ -10,7 +10,7 @@ gedit sort
 # Сохраните
 chmod +x sort
 gedit ~/.bashrc
-# добавьте команду(alias sort="py sort") в самый конец файла
+# добавьте команду(alias sort="py sort";) в самый конец файла
 ```
 
 теперь по команде:
